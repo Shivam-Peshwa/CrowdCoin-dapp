@@ -48,17 +48,6 @@ A decentralized crowdfunding platform built on Ethereum using Solidity and a Rea
 ### 📄 Spending Requests
 ![Requests Page](./screenshots/requests.png)
 
-
-### 📊 Campaign Details
-<img src="./screenshots/campaign-details.png" alt="Campaign Details" width="800"/>
-
-### 📄 Spending Requests
-<img src="./screenshots/requests.png" alt="Requests Page" width="800"/>
-
-> *(Replace with your real screenshots or create a `/screenshots` folder)*
-
----
-
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repo
